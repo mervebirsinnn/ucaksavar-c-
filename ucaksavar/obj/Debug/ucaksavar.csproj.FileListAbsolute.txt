@@ -1,0 +1,8 @@
+c:\users\dell\documents\visual studio 2015\Projects\ucaksavar\ucaksavar\bin\Debug\ucaksavar.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\ucaksavar\ucaksavar\obj\Debug\ucaksavar.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\ucaksavar\ucaksavar\obj\Debug\ucaksavar.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\ucaksavar\ucaksavar\obj\Debug\ucaksavar.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\ucaksavar\ucaksavar\bin\Debug\ucaksavar.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\ucaksavar\ucaksavar\bin\Debug\ucaksavar.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\ucaksavar\ucaksavar\obj\Debug\ucaksavar.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\ucaksavar\ucaksavar\obj\Debug\ucaksavar.pdb
